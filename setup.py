@@ -23,7 +23,7 @@ with open("README.md", "r", encoding="utf-8") as f:
     AUTHOR_USER_NAME = "abhishek-jana"
     SRC_REPO = "credit_default"
     AUTHOR_EMAIL = "abhishekjana6@gmail.com"
-    DESCRIPTION="A solution that should able to predict the probability of credit default based on credit card owner\'s characteristics and payment history.",
+    DESCRIPTION="A solution that should able to predict the probability of credit_default disease.",
 
     REQUIREMENT_FILE_NAME = "requirements.txt"
 

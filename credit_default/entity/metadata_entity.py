@@ -3,7 +3,7 @@ import os, sys
 
 from credit_default.utils import read_yaml_file, write_yaml_file
 from collections import namedtuple
-from credit_default.logging import logger
+from credit_default.logger import logging
 DataIngestionMetadataInfo = namedtuple("DataIngestionMetadataInfo", ["date", "data_file_path"])
 
 

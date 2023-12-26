@@ -6,5 +6,6 @@ pandas
 PyYAML
 numpy
 scikit-learn
+dill
 kaggle
 -e .
